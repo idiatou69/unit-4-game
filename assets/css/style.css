@@ -1,0 +1,45 @@
+.crystal-image {
+    width: 20%;
+    height: 300px;
+  }
+  #crystCol{
+      background: orangered;
+      color:white;
+      margin:0 auto;
+      height: 80px;
+      margin-bottom: 10px;
+  }
+  #player-guess{
+color: white;
+  }
+  #guesser{
+      background: lightskyblue;
+      height: 180px;
+      color: white;
+      font-family: italic;
+  }
+  #point{
+      background: lightskyblue;
+      color:white;
+      margin-bottom: 10px;
+      height: 150px;
+      font-family: italic;
+  }
+  #numb{
+    background: lightskyblue;
+    color:white;
+    margin-bottom: 10px;
+    height: 150px;
+  }
+  p{
+      background: burlywood;
+    color:white;
+    height: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+    padding: 10px
+  }
+  .crystal-image{
+      margin-bottom: 10px
+  }
+  
